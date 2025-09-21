@@ -1,1 +1,0 @@
-Testing for deletion of File in Git.
